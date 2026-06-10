@@ -4,6 +4,8 @@ A single-page investment strategy / financial advisory landing page built with p
 
 🔗 **Live site:** Deployed automatically via GitHub Pages on every push to `main`.
 
+![Screenshot of the landing page](assets/screenshot.png)
+
 ## Overview
 
 `index.html` is a fully self-contained marketing/landing page for an investment advisory service ("Build a Smarter Investment Strategy for Long-Term Wealth Growth"). It includes:
